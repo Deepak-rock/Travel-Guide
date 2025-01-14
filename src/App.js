@@ -1,6 +1,7 @@
+import TravelGuide from './components/TravelGuide'
 import './App.css'
 
 // Replace your code here
-const App = () => <div>Hello World!</div>
+const App = () => <TravelGuide />
 
 export default App

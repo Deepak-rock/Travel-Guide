@@ -1,0 +1,24 @@
+.package-item {
+  width: 300px;
+  flex-grow: 1;
+}
+.package-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.image {
+  width: 100%;
+}
+.name {
+  font-size: 18px;
+  font-family: 'roboto';
+  font-weight: 500;
+  color: #475569;
+  padding: 0 20px;
+}
+.description {
+  font-size: 16px;
+  font-family: 'roboto';
+  color: #64748b;
+  padding: 0 20px 20px 20px;
+}
