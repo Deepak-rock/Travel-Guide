@@ -8,7 +8,7 @@ const TravelPackage = props => {
     <li className="package-item">
       <div className="package-container">
         <img src={imageUrl} alt={name} className="image" />
-        <p className="name">{name}</p>
+        <h1 className="name">{name}</h1>
         <p className="description">{description}</p>
       </div>
     </li>
